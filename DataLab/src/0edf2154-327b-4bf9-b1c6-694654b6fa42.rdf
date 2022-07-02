@@ -1,0 +1,20 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://purl.org/dc/terms/"
+    xmlns:j.1="http://www.w3.org/ns/dcat#">
+  <j.1:Distribution rdf:about="https://europeandataportal.eu/set/distribution/0edf2154-327b-4bf9-b1c6-694654b6fa42">
+    <j.0:format>
+      <j.0:MediaTypeOrExtent rdf:about="http://publications.europa.eu/resource/authority/file-type/HTML"/>
+    </j.0:format>
+    <j.0:license>
+      <j.0:LicenseDocument rdf:about="http://publications.europa.eu/resource/authority/licence/CC_BY_4_0"/>
+    </j.0:license>
+    <j.0:identifier>http://data.europa.eu/88u/distribution/87dbe316-ec1f-4a63-a40c-965625ad43b7</j.0:identifier>
+    <j.0:title xml:lang="en">[VISUALISATION] Cases deaths and attack rate per country - [Table]</j.0:title>
+    <j.0:type rdf:resource="http://publications.europa.eu/resource/authority/distribution-type/VISUALIZATION"/>
+    <j.0:description xml:lang="en">The table shows figures about deaths and attack rate per country.&#xD;
+&#xD;
+Type of visualisation: Table</j.0:description>
+    <j.1:accessURL rdf:resource="https://qap.ecdc.europa.eu/public/single/?appid=f818d019-18c5-41e0-99e6-bd2b7f6f17b5&amp;obj=thDtK&amp;opt=nointeraction&amp;select=clearall"/>
+  </j.1:Distribution>
+</rdf:RDF>
